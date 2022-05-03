@@ -1,9 +1,9 @@
 rule,win,count
 ガチアサリ,False,32
 ガチアサリ,True,15
-ガチエリア,False,13
-ガチエリア,True,14
-ガチホコバトル,False,17
-ガチホコバトル,True,12
-ガチヤグラ,False,19
-ガチヤグラ,True,16
+ガチエリア,False,18
+ガチエリア,True,15
+ガチホコバトル,False,26
+ガチホコバトル,True,16
+ガチヤグラ,False,20
+ガチヤグラ,True,18
